@@ -10,10 +10,10 @@
       <img src="https://komarev.com/ghpvc/?username=kcfindstr&label=Profile%20Views&color=F5A9B8&style=for-the-badge" alt="Profile views" />
     </a>
     <a href="https://codeforces.com/profile/shimatsukaze" target="_blank">
-      <img src="https://img.shields.io/badge/Codeforces-shimatsukaze%20(2333)-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+      <img src="./assets/cf_badge.svg" alt="Codeforces" />
     </a>
     <a href="https://icpc.global/" target="_blank">
-      <img src="https://img.shields.io/badge/ICPC-World%20Finalist-FFD700?style=for-the-badge&logo=academia&logoColor=black" alt="ICPC World Finalist" />
+      <img src="./assets/icpc_badge.svg" alt="ICPC World Finalist" />
     </a>
   </p>
 </div>
